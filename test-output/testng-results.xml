@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-09-29T21:43:29 EDT" name="Default suite" finished-at="2025-09-29T21:44:53 EDT" duration-ms="83368">
+    <groups>
+    </groups>
+    <test started-at="2025-09-29T21:43:29 EDT" name="Default test" finished-at="2025-09-29T21:44:53 EDT" duration-ms="83368">
+      <class name="com.example.framework.tests.PimTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.example.framework.tests.PimTest@510f3d34]" started-at="2025-09-29T21:43:29 EDT" name="setUp" finished-at="2025-09-29T21:43:45 EDT" duration-ms="15205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validLoginTest()[pri:0, instance:com.example.framework.tests.PimTest@510f3d34]" started-at="2025-09-29T21:43:45 EDT" name="validLoginTest" finished-at="2025-09-29T21:44:53 EDT" duration-ms="68047" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.example.framework.tests.PimTest@510f3d34]" started-at="2025-09-29T21:44:53 EDT" name="tearDown" finished-at="2025-09-29T21:44:53 EDT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.example.framework.tests.PimTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
