@@ -61,6 +61,7 @@ public class PimTest extends BaseTest {
 		    
 		    
 		    driver.quit();
+		    System.out.println ("tafim");
 	
 	
 	
